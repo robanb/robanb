@@ -16,8 +16,6 @@ $ whoami
   focus       : Infrastructure · Security · Automation · Blockchain
   education   : Diploma in Computer Systems & Network
                 Jigme Namgyel Engineering College, RUB (2020-2022)
-  building    : 30-Day DevOps & DevSecOps Challenge @ basnet.dev
-  writing     : Daily production challenges on LinkedIn
 ```
 
 ---
