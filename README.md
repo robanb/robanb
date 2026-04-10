@@ -174,10 +174,14 @@ Jigme Namgyel Engineering College, Royal University of Bhutan
   <a href="https://github.com/robanb" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/github.svg" width="64" alt="GitHub" title="Check out my repos" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/robanb" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="180" alt="Buy Me a Coffee" title="Support my work" />
+  </a>
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=false&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Software+Developer;Blockchain+Infrastructure+Specialist;CI%2FCD+%7C+Automation+%7C+Cloud+Solutions;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Animated Connect Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=false&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Software+Developer;Blockchain+Infrastructure+Specialist;CI%2FCD+%7C+Automation+%7C+Cloud+Solutions;Support+my+work+%E2%98%95+buymeacoffee.com%2Frobanb;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Animated Connect Text" />
 </p>
 
 ---
