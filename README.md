@@ -11,7 +11,7 @@ $ whoami
   name        : Roba Nath Basnet
   role        : DevOps Engineer & Software Developer
   location    : Thimphu, Bhutan 🇧🇹
-  company     : ChainZeeper (Nov 2022 - Present)
+  company     : ChainZeeper (Sept 2022 - Present)
   experience  : 3+ years
   focus       : Infrastructure · Security · Automation · Blockchain
   education   : Diploma in Computer Systems & Network
